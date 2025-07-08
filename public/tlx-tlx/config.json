@@ -237,6 +237,18 @@
                     "options": ["Frustration", "Mental Demand"]
                 }
             ]
+        },
+        "open-feedback":{
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "open-feedback",
+                    "prompt": "Thank you for your participation! \n Please leave feedback and share your thoughts/comments about the experiment in the field below!",
+                    "required": false,
+                    "location": "aboveStimulus",
+                    "type": "longText"
+                }
+            ]
         }        
     },
     "importedLibraries": [
@@ -333,7 +345,8 @@
                     "$nasa-tlx.co.nasa-tlx"
                     ],
                     "order": "fixed"
-                }
+                },                
+                "open-feedback"
         ]
         
     }
