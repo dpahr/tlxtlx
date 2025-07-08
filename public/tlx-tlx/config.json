@@ -1,0 +1,377 @@
+{
+    "$schema": "https://raw.githubusercontent.com/revisit-studies/study/main/src/parser/StudyConfigSchema.json",
+    "studyMetadata": {
+        "title": "Basic Questionnaire Study",
+        "version": "pilot",
+        "authors": [
+            "The reVISit Team"
+        ],
+        "date": "2024-03-19",
+        "description": "A simple questionnaire study",
+        "organizations": [
+            "University of Utah",
+            "WPI",
+            "University of Toronto"
+        ]
+    },
+    "uiConfig": {
+        "contactEmail": "contact@revisit.dev",
+        "helpTextPath": "tlx-tlx/assets/help.md",
+        "logoPath": "revisitAssets/revisitLogoSquare.svg",
+        "withProgressBar": true,
+        "autoDownloadStudy": false,
+        "sidebar": true
+    },
+    "components": {
+        "introduction": {
+            "type": "markdown",
+            "path": "tlx-tlx/assets/introduction.md",
+            "response": []
+        },
+        "thanks": {
+            "type": "markdown",
+            "path": "tlx-tlx/assets/thanks.md",
+            "response": []
+        },
+        "intro-TLX-task": {
+            "type": "markdown",
+            "path": "tlx-tlx/assets/intro-TLX-task.md",
+            "response": []
+        },
+        "intro-TLX-TLX": {
+            "type": "markdown",
+            "path": "tlx-tlx/assets/intro-TLX-TLX.md",
+            "response": []
+        },
+        "effort-performance":{
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "pick-effort-performance",
+                    "prompt": "Select the scale title that represents the more important contributor to workload for the specific task(s) you performed in this experiment",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": ["Effort", "Performance"]
+                }
+            ]
+        },
+        "temporal-frustration":{
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "pick-temporal-frustration",
+                    "prompt": "Select the scale title that represents the more important contributor to workload for the specific task(s) you performed in this experiment",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": ["Temporal Demand", "Frustration"]
+                }
+            ]
+        },
+        "temporal-effort":{
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "temporal-effort",
+                    "prompt": "Select the scale title that represents the more important contributor to workload for the specific task(s) you performed in this experiment",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": ["Temporal Demand", "Effort"]
+                }
+            ]
+        },
+        "physical-frustration":{
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "pick-physical-frusrtation",
+                    "prompt": "Select the scale title that represents the more important contributor to workload for the specific task(s) you performed in this experiment",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": ["Physical Demand", "Frustration"]
+                }
+            ]
+        },
+        "performance-frustration":{
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "pick-performance-frusrtation",
+                    "prompt": "Select the scale title that represents the more important contributor to workload for the specific task(s) you performed in this experiment",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": ["Performance", "Frustration"]
+                }
+            ]
+        },
+        "physical-temporal":{
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "pick-physical-temporal",
+                    "prompt": "Select the scale title that represents the more important contributor to workload for the specific task(s) you performed in this experiment",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": ["Physical Demand", "Temporal Demand"]
+                }
+            ]
+        },
+        "physical-performance":{
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "pick-physical-performance",
+                    "prompt": "Select the scale title that represents the more important contributor to workload for the specific task(s) you performed in this experiment",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": ["Physical Demand", "Performance"]
+                }
+            ]
+        },
+        "temporal-mental":{
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "pick-temporal-mental",
+                    "prompt": "Select the scale title that represents the more important contributor to workload for the specific task(s) you performed in this experiment",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": ["Temporal Demand", "Mental Demand"]
+                }
+            ]
+        },
+        "frustration-effort":{
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "pick-frusrtation-effort",
+                    "prompt": "Select the scale title that represents the more important contributor to workload for the specific task(s) you performed in this experiment",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": ["Frustration", "Effort"]
+                }
+            ]
+        },
+        "performance-mental":{
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "pick-performance-mental",
+                    "prompt": "Select the scale title that represents the more important contributor to workload for the specific task(s) you performed in this experiment",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": ["Performance", "Mental Demand"]
+                }
+            ]
+        },
+        "performance-temporal":{
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "pick-performance-temporal",
+                    "prompt": "Select the scale title that represents the more important contributor to workload for the specific task(s) you performed in this experiment",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": ["Performance", "Temporal Demand"]
+                }
+            ]
+        },
+        "mental-effort":{
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "pick-mental-effort",
+                    "prompt": "Select the scale title that represents the more important contributor to workload for the specific task(s) you performed in this experiment",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": ["Mental Demand", "Effort"]
+                }
+            ]
+        },
+        "mental-physical":{
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "pick-mental-physical",
+                    "prompt": "Select the scale title that represents the more important contributor to workload for the specific task(s) you performed in this experiment",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": ["Mental Demand", "Physical Demand"]
+                }
+            ]
+        },
+        "effort-physical":{
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "pick-effort-physical",
+                    "prompt": "Select the scale title that represents the more important contributor to workload for the specific task(s) you performed in this experiment",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": ["Effort", "Physical Demand"]
+                }
+            ]
+        },
+        "frustration-mental":{
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "pick-frustration-mental",
+                    "prompt": "Select the scale title that represents the more important contributor to workload for the specific task(s) you performed in this experiment",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "radio",
+                    "options": ["Frustration", "Mental Demand"]
+                }
+            ]
+        },
+        "first-question-set": {
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "q1-name",
+                    "prompt": "What is your first name?",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "longText",
+                    "placeholder": "Please enter your first name"
+                },
+                {
+                    "id": "q2-name",
+                    "prompt": "What is your last name?",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "longText",
+                    "placeholder": "Please enter your first name"
+                },
+                {
+                    "id": "q2-color",
+                    "prompt": "What is your favorite color?",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "dropdown",
+                    "placeholder": "Please choose your favorite color",
+                    "options": ["Red", "Blue", "My favorite color is not shown here."]
+                }
+            ]
+        },
+        "second-question-set": {
+            "type": "questionnaire",
+            "response": [
+                {
+                    "id": "q3-satisfaction",
+                    "prompt": "Rate your satisfaction with this survey from 1 (not enjoyable) to 5 (very enjoyable).",
+                    "required": true,
+                    "location": "aboveStimulus",
+                    "type": "likert",
+                    "leftLabel": "Not Enjoyable",
+                    "rightLabel": "Very Enjoyable",
+                    "numItems": 5
+                }
+            ]
+        }
+    },
+    "importedLibraries": [
+        "nasa-tlx",
+        "mini-vlat"
+    ],
+    "sequence": {
+        "order": "fixed",
+        "components": [            
+            "introduction",            
+            {
+                "components": [                    
+                    "$mini-vlat.co.scatterplot",  
+                    "$mini-vlat.co.stackedBar100", 
+                    "$mini-vlat.co.areachar", 
+                    "$mini-vlat.co.treemap", 
+                    "$mini-vlat.co.barchart", 
+                    "$mini-vlat.co.histogram", 
+                    "$mini-vlat.co.stackedarea", 
+                    "$mini-vlat.co.choropleth", 
+                    "$mini-vlat.co.linechart", 
+                    "$mini-vlat.co.piechart", 
+                    "$mini-vlat.co.bubblechart", 
+                    "$mini-vlat.co.stackedbar"
+                ],
+                "order": "latinSquare",
+                "numSamples": 1
+            },
+            "intro-TLX-task",
+            {
+                "components": [                         
+                            "$nasa-tlx.co.nasa-tlx",
+                            {
+                                "components": [{
+                                    "components": [
+                                        "effort-performance",
+                                        "temporal-frustration",
+                                        "temporal-effort",
+                                        "physical-frustration",
+                                        "performance-frustration",
+                                        "physical-temporal",
+                                        "physical-performance",
+                                        "temporal-mental",
+                                        "frustration-effort",
+                                        "performance-mental",
+                                        "performance-temporal",
+                                        "mental-effort",
+                                        "mental-physical",
+                                        "effort-physical",
+                                        "frustration-mental"
+
+                                    ],
+                                    "order":"random"
+                                },
+                                "$nasa-tlx.co.nasa-tlx"
+                                ],
+                                "order": "fixed"
+                            }
+                        ],                
+                        "order": "latinSquare",
+                        "numSamples": 1
+                },    
+                "intro-TLX-TLX",  
+                {
+                    "components": [{
+                        "components": [
+                            "effort-performance",
+                            "temporal-frustration",
+                            "temporal-effort",
+                            "physical-frustration",
+                            "performance-frustration",
+                            "physical-temporal",
+                            "physical-performance",
+                            "temporal-mental",
+                            "frustration-effort",
+                            "performance-mental",
+                            "performance-temporal",
+                            "mental-effort",
+                            "mental-physical",
+                            "effort-physical",
+                            "frustration-mental"
+
+                        ],
+                        "order":"random"
+                    },
+                    "$nasa-tlx.co.nasa-tlx"
+                    ],
+                    "order": "fixed"
+                }
+        ]
+        
+    }
+}
