@@ -1,6 +1,11 @@
 # Evaluating the task load of the TLX-Questionnaire
 
-You will now be presented with an implementation of the nasa TLX questionnaire **again**. 
+<b style="color: red">
+
+You will now be presented with an implementation of the nasa TLX questionnaire **again**.
+
+ With this we want to evaluate the task load of **filling out the TLX-questionnaire** from before.</b>
+
 
 This process consists of two parts:
 Firstly, you will be presented of 15 pairs of scale names in random order. Please select for each pair the scale name that contributes more to your subjective task load, with regards to the task you just completed (**filling out the TLX-questionnaire**).
