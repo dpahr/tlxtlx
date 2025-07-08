@@ -1,12 +1,6 @@
-# Evaluating the task load of the TLX-Questionnaire
+# Evaluating the task load of the TASK
 
-You will now be presented with an implementation of the nasa TLX questionnaire **again**. 
-
-This process consists of two parts:
-Firstly, you will be presented of 15 pairs of scale names in random order. Please select for each pair the scale name that contributes more to your subjective task load, with regards to the task you just completed (**filling out the TLX-questionnaire**).
-Then you will rate your subjective task load on the respective scales from 0-100.
-
-The scales on which you will rank the subjective task load are explained below.
+You will now be presented with an implementation of the NASA-TLX questionnaire. The scales on which you will rank the subjective task load in **completing the task** are explained below.
 If you are at any point unclear about the precise definition of the scale, please refer to the Help section.
 
 ## NASA-TLX Scales
