@@ -17,7 +17,7 @@ TEMPORAL DEMAND
 
 Endpoints: Low/High
 
-How much time pressure did you feel due to the rate or pace at which the tasks or task elements occurred? Was the pace slow and leisurely or rapid and frantic?|
+How much time pressure did you feel due to the rate or pace at which the tasks or task elements occurred? Was the pace slow and leisurely or rapid and frantic?
 
 PERFORMANCE
 

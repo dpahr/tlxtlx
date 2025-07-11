@@ -42,6 +42,16 @@
             "path": "tlx-tlx/assets/intro-task-RTLX.md",
             "response": []
         },
+        "part-1": {
+            "type": "markdown",
+            "path": "tlx-tlx/assets/Part-1.md",
+            "response": []
+        },
+        "part-2": {
+            "type": "markdown",
+            "path": "tlx-tlx/assets/Part-2.md",
+            "response": []
+        },
         "source-of-load":{
             "type": "questionnaire",
             "description": "Source of load evaluation, a pairwise weighting procedure to assess the relative importance of different factors that contribute to a person's experience of workload during a task. It should be presented before the NASA-TLX.",
@@ -440,7 +450,8 @@
     "sequence": {
         "order": "fixed",
         "components": [            
-            "introduction",            
+            "introduction",          
+            "part-1",            
             {
                 "components": [                    
                     "$mini-vlat.co.scatterplot",  
@@ -509,6 +520,7 @@
                         "order": "latinSquare",
                         "numSamples": 1
                 },    
+                "part-2",
                 "intro-TLX-TLX",  
                 {
                     "components": [{
