@@ -1,6 +1,9 @@
-# Evaluating the task load of the TASK
+# Evaluating the task load of a simple visualization task.
 
-You will now be presented with an implementation of the NASA-TLX questionnaire. The scales on which you will rank the subjective task load in **completing the task** are explained below.
+You will now be presented with an implementation of the NASA TLX questionnaire. 
+There you will rate your subjective task load on the respective scales from 0-100.
+
+The scales on which you will rank the subjective task load are explained below.
 If you are at any point unclear about the precise definition of the scale, please refer to the Help section.
 
 ## NASA-TLX Scales
