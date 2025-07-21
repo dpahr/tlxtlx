@@ -1,0 +1,802 @@
+{
+  "57241a4b-22b8-41e7-b00a-05366c20a999": {
+    "experiment_setup": "short",
+    "task": "$mini-vlat.co.stackedBar100_2",
+    "time_spent_on_task": 23447,
+    "tlx": {
+      "vals": {
+        "mental-demand": 80,
+        "physical-demand": 5,
+        "temporal-demand": 85,
+        "performance": 30,
+        "effort": 30,
+        "frustration": 25
+      },
+      "weighted_score": 42.5,
+      "time_spent_on_tlx": 151127
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 4,
+        "Physical Demand": 0,
+        "Temporal Demand": 5,
+        "Performance": 3,
+        "Effort": 1,
+        "Frustration": 2
+      },
+      "vals": {
+        "mental-demand": 80,
+        "physical-demand": 5,
+        "temporal-demand": 10,
+        "performance": 15,
+        "effort": 30,
+        "frustration": 15
+      },
+      "weighted_score": 31.666666666666668
+    }
+  },
+  "66b99ea8-f835-42ca-b76e-d99497d0aff9": {
+    "experiment_setup": "short",
+    "task": "$mini-vlat.co.choropleth_2",
+    "time_spent_on_task": 17343,
+    "tlx": {
+      "vals": {
+        "mental-demand": 65,
+        "physical-demand": 10,
+        "temporal-demand": 75,
+        "performance": 5,
+        "effort": 60,
+        "frustration": 60
+      },
+      "weighted_score": 45.833333333333336,
+      "time_spent_on_tlx": 109947
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 5,
+        "Physical Demand": 1,
+        "Temporal Demand": 3,
+        "Performance": 0,
+        "Effort": 2,
+        "Frustration": 4
+      },
+      "vals": {
+        "mental-demand": 40,
+        "physical-demand": 5,
+        "temporal-demand": 0,
+        "performance": 10,
+        "effort": 40,
+        "frustration": 60
+      },
+      "weighted_score": 35
+    }
+  },
+  "13af7480-8cc9-4945-9719-2efa414e7ce6": {
+    "experiment_setup": "long",
+    "task": "$mini-vlat.co.piechart_2",
+    "time_spent_on_task": 13707,
+    "tlx": {
+      "weights": {
+        "Mental Demand": 4,
+        "Physical Demand": 0,
+        "Temporal Demand": 5,
+        "Performance": 1,
+        "Effort": 2,
+        "Frustration": 3
+      },
+      "vals": {
+        "mental-demand": 60,
+        "physical-demand": 15,
+        "temporal-demand": 95,
+        "performance": 35,
+        "effort": 70,
+        "frustration": 75
+      },
+      "weighted_score": 74.33333333333333,
+      "time_spent_on_tlx": 164435
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 5,
+        "Physical Demand": 1,
+        "Temporal Demand": 0,
+        "Performance": 2,
+        "Effort": 4,
+        "Frustration": 3
+      },
+      "vals": {
+        "mental-demand": 70,
+        "physical-demand": 5,
+        "temporal-demand": 0,
+        "performance": 25,
+        "effort": 60,
+        "frustration": 70
+      },
+      "weighted_score": 57
+    }
+  },
+  "51f52fde-023d-4cce-af6c-6101c0982038": {
+    "experiment_setup": "short",
+    "task": "$mini-vlat.co.piechart_2",
+    "time_spent_on_task": 27848,
+    "tlx": {
+      "vals": {
+        "mental-demand": 75,
+        "physical-demand": 0,
+        "temporal-demand": 95,
+        "performance": 100,
+        "effort": 100,
+        "frustration": 100
+      },
+      "weighted_score": 78.33333333333333,
+      "time_spent_on_tlx": 93482
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 4,
+        "Physical Demand": 0,
+        "Temporal Demand": 5,
+        "Performance": 1,
+        "Effort": 3,
+        "Frustration": 2
+      },
+      "vals": {
+        "mental-demand": 70,
+        "physical-demand": 2,
+        "temporal-demand": 66,
+        "performance": 80,
+        "effort": 60,
+        "frustration": 75
+      },
+      "weighted_score": 68
+    }
+  },
+  "beab4ad6-5f37-4c0c-9149-803a8f79f01b": {
+    "experiment_setup": "short",
+    "task": "$mini-vlat.co.treemap_2",
+    "time_spent_on_task": 11598,
+    "tlx": {
+      "vals": {
+        "mental-demand": 15,
+        "physical-demand": 0,
+        "temporal-demand": 30,
+        "performance": 0,
+        "effort": 20,
+        "frustration": 5
+      },
+      "weighted_score": 11.666666666666666,
+      "time_spent_on_tlx": 68335
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 4,
+        "Physical Demand": 0,
+        "Temporal Demand": 5,
+        "Performance": 2,
+        "Effort": 3,
+        "Frustration": 1
+      },
+      "vals": {
+        "mental-demand": 40,
+        "physical-demand": 0,
+        "temporal-demand": 0,
+        "performance": 30,
+        "effort": 20,
+        "frustration": 0
+      },
+      "weighted_score": 18.666666666666668
+    }
+  },
+  "d3a62c23-65b7-44b1-b563-d681e05fac08": {
+    "experiment_setup": "mid",
+    "task": "$mini-vlat.co.histogram_2",
+    "time_spent_on_task": 11697,
+    "tlx": {
+      "weights": {
+        "Mental Demand": 6,
+        "Physical Demand": 0,
+        "Temporal Demand": 5,
+        "Performance": 3,
+        "Effort": 1,
+        "Frustration": 1
+      },
+      "vals": {
+        "mental-demand": 65,
+        "physical-demand": 1,
+        "temporal-demand": 71,
+        "performance": 6,
+        "effort": 63,
+        "frustration": 7
+      },
+      "weighted_score": 55.53333333333333,
+      "time_spent_on_tlx": 96280
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 5,
+        "Physical Demand": 0,
+        "Temporal Demand": 1,
+        "Performance": 4,
+        "Effort": 3,
+        "Frustration": 2
+      },
+      "vals": {
+        "mental-demand": 59,
+        "physical-demand": 2,
+        "temporal-demand": 2,
+        "performance": 40,
+        "effort": 60,
+        "frustration": 15
+      },
+      "weighted_score": 44.46666666666667
+    }
+  },
+  "149bbf28-0007-4c4e-a61f-ccd2278d0014": {
+    "experiment_setup": "long",
+    "task": "$mini-vlat.co.areachar_2",
+    "time_spent_on_task": 20923,
+    "tlx": {
+      "weights": {
+        "Mental Demand": 4,
+        "Physical Demand": 0,
+        "Temporal Demand": 5,
+        "Performance": 1,
+        "Effort": 2,
+        "Frustration": 3
+      },
+      "vals": {
+        "mental-demand": 85,
+        "physical-demand": 0,
+        "temporal-demand": 100,
+        "performance": 5,
+        "effort": 70,
+        "frustration": 100
+      },
+      "weighted_score": 85.66666666666667,
+      "time_spent_on_tlx": 205180
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 5,
+        "Physical Demand": 0,
+        "Temporal Demand": 2,
+        "Performance": 1,
+        "Effort": 3,
+        "Frustration": 4
+      },
+      "vals": {
+        "mental-demand": 70,
+        "physical-demand": 0,
+        "temporal-demand": 15,
+        "performance": 0,
+        "effort": 35,
+        "frustration": 90
+      },
+      "weighted_score": 56.333333333333336
+    }
+  },
+  "41b58357-2570-4e5e-aae0-870a8752ba73": {
+    "experiment_setup": "short",
+    "task": "$mini-vlat.co.histogram_2",
+    "time_spent_on_task": 13498,
+    "tlx": {
+      "vals": {
+        "mental-demand": 35,
+        "physical-demand": 5,
+        "temporal-demand": 80,
+        "performance": 0,
+        "effort": 35,
+        "frustration": 15
+      },
+      "weighted_score": 28.333333333333332,
+      "time_spent_on_tlx": 68462
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 4,
+        "Physical Demand": 0,
+        "Temporal Demand": 5,
+        "Performance": 3,
+        "Effort": 2,
+        "Frustration": 1
+      },
+      "vals": {
+        "mental-demand": 30,
+        "physical-demand": 0,
+        "temporal-demand": 0,
+        "performance": 50,
+        "effort": 65,
+        "frustration": 10
+      },
+      "weighted_score": 27.333333333333332
+    }
+  },
+  "74665728-4656-4a75-8c12-0a92fda2db56": {
+    "experiment_setup": "short",
+    "task": "$mini-vlat.co.stackedBar100_2",
+    "time_spent_on_task": 15396,
+    "tlx": {
+      "vals": {
+        "mental-demand": 55,
+        "physical-demand": 35,
+        "temporal-demand": 45,
+        "performance": 40,
+        "effort": 55,
+        "frustration": 45
+      },
+      "weighted_score": 45.833333333333336,
+      "time_spent_on_tlx": 128173
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 5,
+        "Physical Demand": 2,
+        "Temporal Demand": 4,
+        "Performance": 2,
+        "Effort": 2,
+        "Frustration": 0
+      },
+      "vals": {
+        "mental-demand": 60,
+        "physical-demand": 35,
+        "temporal-demand": 50,
+        "performance": 35,
+        "effort": 60,
+        "frustration": 30
+      },
+      "weighted_score": 50.666666666666664
+    }
+  },
+  "9ca5af21-16b8-4774-abfd-0aa4ca48849e": {
+    "experiment_setup": "long",
+    "task": "$mini-vlat.co.stackedbar_2",
+    "time_spent_on_task": 21158,
+    "tlx": {
+      "weights": {
+        "Mental Demand": 2,
+        "Physical Demand": 0,
+        "Temporal Demand": 4,
+        "Performance": 5,
+        "Effort": 3,
+        "Frustration": 1
+      },
+      "vals": {
+        "mental-demand": 84,
+        "physical-demand": 9,
+        "temporal-demand": 91,
+        "performance": 25,
+        "effort": 84,
+        "frustration": 27
+      },
+      "weighted_score": 62.4,
+      "time_spent_on_tlx": 108837
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 4,
+        "Physical Demand": 1,
+        "Temporal Demand": 4,
+        "Performance": 3,
+        "Effort": 2,
+        "Frustration": 1
+      },
+      "vals": {
+        "mental-demand": 31,
+        "physical-demand": 0,
+        "temporal-demand": 30,
+        "performance": 38,
+        "effort": 20,
+        "frustration": 35
+      },
+      "weighted_score": 28.866666666666667
+    }
+  },
+  "0c308f8f-3927-4f56-bf36-743855b9c0af": {
+    "experiment_setup": "long",
+    "task": "$mini-vlat.co.stackedarea_2",
+    "time_spent_on_task": 17210,
+    "tlx": {
+      "weights": {
+        "Mental Demand": 4,
+        "Physical Demand": 0,
+        "Temporal Demand": 3,
+        "Performance": 4,
+        "Effort": 3,
+        "Frustration": 1
+      },
+      "vals": {
+        "mental-demand": 75,
+        "physical-demand": 0,
+        "temporal-demand": 65,
+        "performance": 71,
+        "effort": 60,
+        "frustration": 1
+      },
+      "weighted_score": 64,
+      "time_spent_on_tlx": 908266
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 5,
+        "Physical Demand": 2,
+        "Temporal Demand": 0,
+        "Performance": 1,
+        "Effort": 3,
+        "Frustration": 4
+      },
+      "vals": {
+        "mental-demand": 25,
+        "physical-demand": 15,
+        "temporal-demand": 3,
+        "performance": 0,
+        "effort": 80,
+        "frustration": 86
+      },
+      "weighted_score": 49.266666666666666
+    }
+  },
+  "816b6e57-9efb-495b-ae5c-ea54ada57eae": {
+    "experiment_setup": "long",
+    "task": "$mini-vlat.co.scatterplot_2",
+    "time_spent_on_task": 9504,
+    "tlx": {
+      "weights": {
+        "Mental Demand": 3,
+        "Physical Demand": 0,
+        "Temporal Demand": 4,
+        "Performance": 2,
+        "Effort": 1,
+        "Frustration": 5
+      },
+      "vals": {
+        "mental-demand": "50",
+        "physical-demand": "50",
+        "temporal-demand": "50",
+        "performance": "50",
+        "effort": "50",
+        "frustration": "50"
+      },
+      "weighted_score": 50,
+      "time_spent_on_tlx": 89419
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 4,
+        "Physical Demand": 0,
+        "Temporal Demand": 5,
+        "Performance": 2,
+        "Effort": 1,
+        "Frustration": 3
+      },
+      "vals": {
+        "mental-demand": 50,
+        "physical-demand": 50,
+        "temporal-demand": 50,
+        "performance": 50,
+        "effort": 50,
+        "frustration": 50
+      },
+      "weighted_score": 50
+    }
+  },
+  "ca9197a9-40af-4f95-99f4-1bf26e1bf7ba": {
+    "experiment_setup": "short",
+    "task": "$mini-vlat.co.choropleth_2",
+    "time_spent_on_task": 42536,
+    "tlx": {
+      "vals": {
+        "mental-demand": 60,
+        "physical-demand": 35,
+        "temporal-demand": 55,
+        "performance": 75,
+        "effort": 30,
+        "frustration": 60
+      },
+      "weighted_score": 52.5,
+      "time_spent_on_tlx": 52574
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 2,
+        "Physical Demand": 0,
+        "Temporal Demand": 5,
+        "Performance": 3,
+        "Effort": 1,
+        "Frustration": 4
+      },
+      "vals": {
+        "mental-demand": 55,
+        "physical-demand": 30,
+        "temporal-demand": 65,
+        "performance": 80,
+        "effort": 20,
+        "frustration": 65
+      },
+      "weighted_score": 63.666666666666664
+    }
+  },
+  "388eab2b-c295-481f-b696-a7de2a6cc1f3": {
+    "experiment_setup": "mid",
+    "task": "$mini-vlat.co.scatterplot_2",
+    "time_spent_on_task": 10207,
+    "tlx": {
+      "weights": {
+        "Mental Demand": 3,
+        "Physical Demand": 0,
+        "Temporal Demand": 3,
+        "Performance": 3,
+        "Effort": 2,
+        "Frustration": 5
+      },
+      "vals": {
+        "mental-demand": 67,
+        "physical-demand": 6,
+        "temporal-demand": 88,
+        "performance": 0,
+        "effort": 80,
+        "frustration": 85
+      },
+      "weighted_score": 70,
+      "time_spent_on_tlx": 106082
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 3,
+        "Physical Demand": 0,
+        "Temporal Demand": 4,
+        "Performance": 4,
+        "Effort": 3,
+        "Frustration": 1
+      },
+      "vals": {
+        "mental-demand": 50,
+        "physical-demand": 5,
+        "temporal-demand": 5,
+        "performance": 50,
+        "effort": 25,
+        "frustration": 80
+      },
+      "weighted_score": 35
+    }
+  },
+  "15ad55de-c54a-42db-bb95-7f6f39d6f495": {
+    "experiment_setup": "short",
+    "task": "$mini-vlat.co.piechart_2",
+    "time_spent_on_task": 10663,
+    "tlx": {
+      "vals": {
+        "mental-demand": 76,
+        "physical-demand": 7,
+        "temporal-demand": 80,
+        "performance": 75,
+        "effort": 62,
+        "frustration": 57
+      },
+      "weighted_score": 59.5,
+      "time_spent_on_tlx": 38634
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 5,
+        "Physical Demand": 0,
+        "Temporal Demand": 2,
+        "Performance": 1,
+        "Effort": 3,
+        "Frustration": 4
+      },
+      "vals": {
+        "mental-demand": 77,
+        "physical-demand": 3,
+        "temporal-demand": 29,
+        "performance": 71,
+        "effort": 17,
+        "frustration": 50
+      },
+      "weighted_score": 51
+    }
+  },
+  "cd2e60f4-89e8-4b7b-86f7-558151042e13": {
+    "experiment_setup": "short",
+    "task": "$mini-vlat.co.choropleth_2",
+    "time_spent_on_task": 27664,
+    "tlx": {
+      "vals": {
+        "mental-demand": 89,
+        "physical-demand": 14,
+        "temporal-demand": 95,
+        "performance": 98,
+        "effort": 93,
+        "frustration": 63
+      },
+      "weighted_score": 75.33333333333333,
+      "time_spent_on_tlx": 67758
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 4,
+        "Physical Demand": 0,
+        "Temporal Demand": 3,
+        "Performance": 4,
+        "Effort": 1,
+        "Frustration": 3
+      },
+      "vals": {
+        "mental-demand": 14,
+        "physical-demand": 0,
+        "temporal-demand": 0,
+        "performance": 0,
+        "effort": 5,
+        "frustration": 0
+      },
+      "weighted_score": 4.066666666666666
+    }
+  },
+  "146f8164-470a-47ad-aa90-057a8f7145a7": {
+    "experiment_setup": "long",
+    "task": "$mini-vlat.co.linechart_2",
+    "time_spent_on_task": 11499,
+    "tlx": {
+      "weights": {
+        "Mental Demand": 4,
+        "Physical Demand": 0,
+        "Temporal Demand": 4,
+        "Performance": 2,
+        "Effort": 4,
+        "Frustration": 1
+      },
+      "vals": {
+        "mental-demand": 40,
+        "physical-demand": 0,
+        "temporal-demand": 75,
+        "performance": 15,
+        "effort": 35,
+        "frustration": 35
+      },
+      "weighted_score": 44.333333333333336,
+      "time_spent_on_tlx": 155552
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 5,
+        "Physical Demand": 1,
+        "Temporal Demand": 1,
+        "Performance": 4,
+        "Effort": 3,
+        "Frustration": 1
+      },
+      "vals": {
+        "mental-demand": 65,
+        "physical-demand": 0,
+        "temporal-demand": 30,
+        "performance": 50,
+        "effort": 60,
+        "frustration": 60
+      },
+      "weighted_score": 53
+    }
+  },
+  "6bfdc5f5-6eb2-4252-a938-bbb50091d8d7": {
+    "experiment_setup": "mid",
+    "task": "$mini-vlat.co.areachar_2",
+    "time_spent_on_task": 19186,
+    "tlx": {
+      "weights": {
+        "Mental Demand": 2,
+        "Physical Demand": 0,
+        "Temporal Demand": 5,
+        "Performance": 5,
+        "Effort": 1,
+        "Frustration": 3
+      },
+      "vals": {
+        "mental-demand": 25,
+        "physical-demand": 10,
+        "temporal-demand": 100,
+        "performance": 60,
+        "effort": 85,
+        "frustration": 95
+      },
+      "weighted_score": 81.33333333333333,
+      "time_spent_on_tlx": 150660
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 5,
+        "Physical Demand": 0,
+        "Temporal Demand": 1,
+        "Performance": 3,
+        "Effort": 4,
+        "Frustration": 2
+      },
+      "vals": {
+        "mental-demand": 70,
+        "physical-demand": 15,
+        "temporal-demand": 15,
+        "performance": 80,
+        "effort": 20,
+        "frustration": 45
+      },
+      "weighted_score": 51.666666666666664
+    }
+  },
+  "9ba17bbe-ac38-404f-85ba-f53eee816e17": {
+    "experiment_setup": "short",
+    "task": "$mini-vlat.co.bubblechart_2",
+    "time_spent_on_task": 30719,
+    "tlx": {
+      "vals": {
+        "mental-demand": 15,
+        "physical-demand": 5,
+        "temporal-demand": 95,
+        "performance": 100,
+        "effort": 75,
+        "frustration": 100
+      },
+      "weighted_score": 65,
+      "time_spent_on_tlx": 113072
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 2,
+        "Physical Demand": 0,
+        "Temporal Demand": 4,
+        "Performance": 3,
+        "Effort": 1,
+        "Frustration": 5
+      },
+      "vals": {
+        "mental-demand": 15,
+        "physical-demand": 5,
+        "temporal-demand": 99,
+        "performance": 100,
+        "effort": 35,
+        "frustration": 100
+      },
+      "weighted_score": 84.06666666666666
+    }
+  },
+  "6684f57e-d3a7-4adc-b521-2b0c31327de0": {
+    "experiment_setup": "long",
+    "task": "$mini-vlat.co.stackedarea_2",
+    "time_spent_on_task": 23495,
+    "tlx": {
+      "weights": {
+        "Mental Demand": 4,
+        "Physical Demand": 0,
+        "Temporal Demand": 5,
+        "Performance": 2,
+        "Effort": 3,
+        "Frustration": 1
+      },
+      "vals": {
+        "mental-demand": 85,
+        "physical-demand": 10,
+        "temporal-demand": 90,
+        "performance": 69,
+        "effort": 65,
+        "frustration": 55
+      },
+      "weighted_score": 78.53333333333333,
+      "time_spent_on_tlx": 133361
+    },
+    "tlxtlx": {
+      "weights": {
+        "Mental Demand": 3,
+        "Physical Demand": 1,
+        "Temporal Demand": 0,
+        "Performance": 5,
+        "Effort": 2,
+        "Frustration": 4
+      },
+      "vals": {
+        "mental-demand": 55,
+        "physical-demand": 10,
+        "temporal-demand": 5,
+        "performance": 91,
+        "effort": 60,
+        "frustration": 91
+      },
+      "weighted_score": 74.26666666666667
+    }
+  }
+}

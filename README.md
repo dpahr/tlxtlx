@@ -1,27 +1,6 @@
-# reVISit study – Interactive, Web-Based User Studies.  
+# TLXTLX 
 
-Create your own interactive, web-based data visualization user studies by cloning/forking and editing configuration files and adding stimuli in the `public` folder. 
+The NASA task load index (short: NASA-TLX) is a common metric to evaluate the workload of a user in a visualization study. Yet, it is rarely performed as initially intended, as the sources-of-workload evaluation is often omitted for different reasons. We conduct an online survey to investigate the task load of administering different versions of the NASA-TLX in a meta-study using the ReVISit framework ([https://github.com/revisit-studies/study](https://github.com/revisit-studies/study)). Our results show that it is not the slight increase in experiment time, but rather participants’ frustration with the procedure, that contributes to the slight increase in task load when using the full version of the TLX compared to using a shortened version. However, we also show that the full version can shine a different and more faceted light on workload by adding a personal dimension to the data. We propose that a compact version of the sources-of-workload questionnaire can mitigate both time loss and frustration for study participants, while still providing the same data as the original procedure. 
 
-reVISit introduces reVISit.spec a DSL for specifying study setups (consent forms, training, trials, etc) for interactive web based studies. You describe your experimental setup in reVISit.spec, add your stimuli as images, forms, html pages, or React components, build and deploy – and you're ready to run your study. For tutorials and documentation, see the [reVISit website](https://revisit.dev). 
 
-## Build Instructions
 
-To run this demo experiment locally, you will need to install node on your computer. 
-
-* Clone `https://github.com/revisit-studies/study`
-* Run `yarn install`. If you don't have yarn installed, run `npm i -g yarn`. 
-* To run locally, run `yarn serve`.
-* Go to [http://localhost:8080](http://localhost:8080) to view it in your browser. The page will reload when you make changes. 
-
-## Release Instructions
-
-Releasing reVISit.dev happens automatically when a PR is merged into the `main` branch. The name of the pull request should be the title of the release, e.g. `v1.0.0`. Releasing creates a tag with the same name as the PR, but the official GitGub release should be created manually. The `main` branch is protected and requires two reviews before merging.
-
-The workflow for release looks as follows:
-Develop features on feature branch
-| PRs
-Dev branch
-| PR (1 per release)
-Main branch
-| Run release workflow on merge
-References are updated and commit is tagged
